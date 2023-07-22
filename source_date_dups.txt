@@ -1,0 +1,546 @@
+    TGSC ID
+    1002031    2021.0
+    1046271       NaN
+    1046271    1989.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1002031    2623-23-6
+    1046271      89-48-5
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1537621   NaN
+    1537631   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1537621    91069-39-5
+    1537631    91069-40-8
+    Name: CAS Number, dtype: object (#E-Z)
+
+    TGSC ID
+    1587131   NaN
+    1593881   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1587131    137886-38-5
+    1593881     22451-49-6
+    1593881     22451-50-9
+    Name: CAS Number, dtype: object (#more info on cis-trans one)
+
+    TGSC ID
+    1412121   NaN
+    1011091   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1412121    29759-11-3
+    1011091       93-92-5 (#-outdated link (older data))
+    Name: CAS Number, dtype: object 
+
+    TGSC ID
+    1008311    1985.0
+    1008311    1997.0
+    1337381       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1008311    110-93-0
+    1337381    409-02-9
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1010451    1987.0
+    1010451    2000.0
+    1007031       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1010451      141-25-3
+    1007031      106-22-9
+    1007031    26489-01-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1016951    2017.0
+    1094441       NaN (# aug 2015 ref given)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1016951    1321-89-7
+    1094441    3085-26-5
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1107761   NaN
+    1008661   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1107761    25773-40-4
+    1008661    93905-03-4
+    Name: CAS Number, dtype: object (# unclear distinction/ similar odor palette)
+
+    TGSC ID
+    1013831    2007.0
+    1013831    2000.0
+    1552391       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1013831     6728-26-3
+    1552391    85761-70-2
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1285181   NaN
+    1038291   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1285181    7704-34-9
+    1038291    7783-06-4
+    Name: CAS Number, dtype: object (# S vs H2S ; different substances)
+
+    TGSC ID
+    1039181    1985.0
+    1024191       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1039181    41199-19-3
+    1024191    71832-76-3
+    Name: CAS Number, dtype: object (# unclear distinction/ similar odor palette)
+
+    TGSC ID
+    1003551   NaN
+    1035831   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1003551    1334-82-3 (# ref from 2020)
+    1035831    4996-48-9
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1475701   NaN
+    1036441   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1475701    55764-31-3 
+    1036441    65505-16-0 (# ref from 2015)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1004301    1987.0
+    1017191    1987.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1004301     1118-39-4 (#ref from 2015)
+    1017191    69103-01-1
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1532211       NaN
+    1035671       NaN
+    1035671    1997.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1532211    15537-55-0
+    1035671      546-79-2 (#ref from 2009)
+    Name: CAS Number, dtype: object (#E-Z)
+
+    TGSC ID
+    1399431       NaN
+    1009891    1985.0
+    1009891    1991.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1399431    1329-99-3
+    1009891      99-83-2
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1042171       NaN
+    1037801    2017.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1042171      334-49-6
+    1037801    72881-27-7 (# ref from 2021)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1014331   NaN (#date: 2003) (# ref from 2016)
+    1030501   NaN (# ref from 1983)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1014331     1365-19-1
+    1030501    60047-17-8
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1240221    1988.0
+    1049481    2016.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1240221     138-86-3
+    1049481    9003-73-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1016731       NaN
+    1035131    2021.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1016731    1337-83-3
+    1035131     143-14-6
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1056631   NaN
+    1056641   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1056631    13952-84-6
+    1056641      513-49-5
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1384091       NaN
+    1024861    1998.0
+    1024861       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1384091    67859-99-8
+    1024861    67874-69-5
+    Name: CAS Number, dtype: object (#E-Z)
+
+    TGSC ID
+    1596941    2017.0
+    1015951    1995.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1596941    13828-37-0
+    1015951     5502-75-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1023021   NaN (# ref from 2002)
+    1596181   NaN (# ref from 2002)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1023021    39872-57-6
+    1596181    70266-48-7
+    Name: CAS Number, dtype: object (# unclear distinction/ similar odor palette)
+
+    TGSC ID
+    1376761    2009.0 (#ref from 2011)
+    1008701       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1376761    63450-30-6
+    1008701    68378-13-2
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1506631   NaN
+    1046721   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1506631    1335-86-0
+    1046721     591-49-1
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1131691   NaN
+    1246321   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1131691     139-33-3
+    1246321    6381-92-6
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1038021    1988.0
+    1038021    1997.0
+    1023991       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1038021    25524-95-2
+    1023991    34686-71-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1428841   NaN
+    1038101   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1428841    75640-26-5
+    1038101    80417-97-6 (#ref from 2018)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1299941   NaN
+    1097891   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1299941     111-60-4
+    1097891    9004-99-3 (#ref from 1983)
+    Name: CAS Number, dtype: object (# not certain)
+
+    TGSC ID
+    1021911    1987.0
+    1021911    1991.0
+    1441071       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1021911    23696-85-7
+    1441071    23726-93-4
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1065761   NaN
+    1600471   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1065761    80722-28-7
+    1600471    80957-74-0
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1462671   NaN
+    1557971   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1462671    16423-19-1 (# more info, likely to be more recent info)
+    1557971     5173-69-3
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1004561       NaN
+    1004561    1991.0
+    1051061    2007.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1004561    1334-78-7
+    1051061     620-23-5
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1399161       NaN
+    1003111    1997.0
+    1003111    1994.0
+    1398981       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1399161    10458-14-7
+    1003111      491-07-6
+    1003111    36977-92-1
+    1398981       89-80-5
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1011971    1986.0
+    1011971    1994.0
+    1006171    1983.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1011971     127-42-4
+    1006171    1335-46-2
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1551481   NaN
+    1053801   NaN (# more info, likely to be more recent info)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1551481    1197-06-4
+    1053801    2102-59-2
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1002611    1992.0
+    1002611    2000.0
+    1498571       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1002611    67883-79-8
+    1498571    84060-80-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1548051       NaN
+    1039651    1998.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1548051    68259-31-4
+    1039651    93904-56-4
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1311481   NaN
+    1011251   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1311481    8000-41-7 (#ref from 2015)
+    1011251      98-55-5 (#ref from 2010)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1106571   NaN
+    1511171   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1106571    5524-05-0 (#ref from 2022)
+    1511171    5948-04-9
+    Name: CAS Number, dtype: object (# cis trans)
+
+    TGSC ID
+    1035681    2007.0
+    1022111    1993.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1035681     1653-30-1
+    1022111      112-42-5
+    1022111    30207-98-8
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1002311    2017.0 (#ref from 2022)
+    1002311       NaN
+    1117241       NaN (#ref from 2022)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1002311    1866-31-5 (N)
+    1117241    1866-31-5 (Z)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1552111   NaN
+    1552351   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1552111    39638-67-0
+    1552351    80041-01-6
+    Name: CAS Number, dtype: object (#unclear)
+
+    TGSC ID
+    1053371       NaN
+    1013261    1993.0 
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1053371    21862-63-5 (#ref from 2020)
+    1013261       98-52-2 (#ref from 2022)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1007011    1984.0
+    1442141       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1007011    23787-90-8 (# more info, likely to be more recent info)
+    1442141    29461-13-0
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1310491   NaN
+    1374441   NaN
+    1029671   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1310491    1490-04-6
+    1374441     491-02-1
+    1029671      89-78-1 (#ref from 2023)
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1006131       NaN
+    1399001    1984.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1006131    58985-18-5 (#ref from 2015)
+    1399001       80-25-1
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1123891       NaN
+    1030521    1994.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1123891    124071-42-7
+    1030521    134769-33-8
+    Name: CAS Number, dtype: object (cis - trans)
+
+    TGSC ID
+    1060791    2007.0
+    1482521       NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1060791    133-37-9
+    1482521    526-83-0
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1000591   NaN
+    1424091   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1000591     106-21-8 (#ref from 2023)
+    1424091    1333-49-9 
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1096661   NaN
+    1489891   NaN
+    1001371   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1096661    10411-92-4 (#cis)
+    1489891     1900-69-2 (#trans)
+    1001371    32210-23-4 (#ref from 2022)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1037451       NaN
+    1446151    2009.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1037451    58625-95-9 (#ref from 2015)
+    1446151    85508-08-3 (#ref from 2015)
+    Name: CAS Number, dtype: object (# unclear distinction/ similar odor palette)
+
+    TGSC ID
+    1024171    1989.0
+    1130961    1988.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1024171    18368-91-7 (#ref from 2023)
+    1130961    67952-68-5
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1609991   NaN
+    1301301   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1609991    13092-66-5
+    1301301     7757-87-1
+    Name: CAS Number, dtype: object (# same odor palette)
+
+    TGSC ID
+    1046991   NaN
+    1381361   NaN
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1046991     2882-20-4 (#ref from 2023)
+    1381361    68378-12-1
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1375541       NaN
+    1001151    1995.0
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1375541     104-46-1
+    1001151    4180-23-8 (#ref from 2023)
+    Name: CAS Number, dtype: object
+
+    TGSC ID
+    1032721       NaN (# (E,Z)-methyl 2-hexenoate)
+    1035941       NaN
+    1035941    1992.0 (# methyl hex-3-enoate)
+    Name: Source Year, dtype: float64
+    TGSC ID
+    1032721    2396-77-2 (#ref 2021)
+    1035941    2396-78-3 (#ref 2022)
+    Name: CAS Number, dtype: object
